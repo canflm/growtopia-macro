@@ -13,10 +13,10 @@ MacroLoop:
     SendMode Input
     Loop {
       Send, {d down}{Space down}
-      Random, ranSleep, 250, 300 ; Random delay between 2.5 and 5 seconds
+      Random, ranSleep, 250, 300
       Sleep, ranSleep
       Send, {d up}{Space up}
-      Random, ranSleep, 50, 350 ; Random break between 25 and 50 seconds
+      Random, ranSleep, 50, 350
       Sleep, ranSleep
     }
   }
