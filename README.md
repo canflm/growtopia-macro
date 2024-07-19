@@ -17,10 +17,10 @@ randomly mashing keys idk bro, guide on using:
 
 
 
-![image](https://github.com/user-attachments/assets/2cb2338d-f82c-4f35-a33d-1e913c36a3dc)
+![image](https://github.com/user-attachments/assets/38a968c6-bdc3-4893-b24c-018a6fedf746)
 
 
-simple ahh main gui;
+simple ahh main gui (updated version)
 
 
 
