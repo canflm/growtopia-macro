@@ -1,6 +1,7 @@
 # GROWTOPIA MACRO
-Block breaking macro for Growtopia. 5dls is a good number 👍.
-find me at .gg/7k3YBxPRxR
+Block breaking macro for Growtopia. Works blocks, doors, wallpapers
++ + + find me at .gg/7k3YBxPRxR
+
 randomized, probably dodges detection
 
 short video showcasing how it works
