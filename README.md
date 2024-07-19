@@ -1,7 +1,7 @@
 # GROWTOPIA MACRO
-Block breaking macro for Growtopia. Works for blocks, doors, wallpapers
+Block breaking macro for Growtopia. Macro works by randomizing hotkeys, probably dodges Growtopia's macro detection. 
++ Works for blocks, doors, wallpapers.
 + find me at .gg/7k3YBxPRxR
-randomized, probably dodges detection
 
 short video showcasing how it works
 
