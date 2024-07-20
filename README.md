@@ -4,7 +4,7 @@ Block breaking macro for Growtopia. Macro works by randomizing hotkeys, probably
 + Semi-auto macro
 + Works while tabbed-out
 + Made with AutoHotKey
-+ find me at .gg/7k3YBxPRxR
++ Discord: zincacetate
 
 short video showcasing how it works
 
