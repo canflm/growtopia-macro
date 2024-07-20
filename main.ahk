@@ -1,1 +1,1 @@
-; .gg/7k3YBxPRxR
+; Find me on Discord
