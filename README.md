@@ -1,5 +1,6 @@
 # GROWTOPIA MACRO
-Block breaking macro for Growtopia. Macro works by randomizing hotkeys, probably dodges Growtopia's macro detection. 
+An automatic block breaking macro for Growtopia made with AutoHotKey.
+This macro works by randomizing the timing of hotkeys sent by AutoHotKey, and hopefully is able to dodge Growtopia's macro detection. (If they do have one)
 + Works for blocks, doors, wallpapers.
 + Semi-auto macro
 + Works while tabbed-out
