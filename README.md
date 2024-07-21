@@ -11,7 +11,7 @@ short video showcasing how it works
 
 ![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/fa89efad-6c80-4558-a6f9-e7430470e900)
 
-
+# GUIDE
 
 randomly mash keys idk bro, guide on using:
 
